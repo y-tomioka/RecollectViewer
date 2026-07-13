@@ -1,4 +1,4 @@
-# 🗂️ RecollectViewer
+# 🌳 RecollectViewer
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue)](https://www.yasui-kamo.com/labo/recollectviewer/)
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2+-512BD4)](https://dotnet.microsoft.com/)
@@ -6,7 +6,7 @@
 
 **Find any past AI conversation in seconds — completely offline.**
 
-RecollectViewer is a free Windows desktop app that loads exported chat history from **ChatGPT, Gemini, and Claude**, then lets you browse it in a tree view and search across everything with powerful filters. Your data never leaves your PC.
+RecollectViewer is a free Windows desktop app that loads exported AI chat history from **ChatGPT, Gemini, and Claude**, then lets you browse it in a tree view and search across everything with powerful filters. Your data never leaves your PC.
 
 ⭐ **If you find this app helpful, please give this repository a Star!** ⭐
 
