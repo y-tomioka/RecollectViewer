@@ -65,10 +65,11 @@ If you use more than one AI service, your conversation history is scattered acro
 Search all loaded history at once. Multiple space-separated keywords work as **AND** conditions.
 
 ### ⚙️ Advanced search (7 filters)
-Combine these with your keywords:
+Combine any of these conditions:
 
 | Filter | Options |
 | :--- | :--- |
+| **Search keyword** | Space-separated words (AND) |
 | **Search scope** | Prompt & response · Prompt only · Response only |
 | **Target AI** | All · ChatGPT · Gemini · Claude |
 | **Contains code** | Code blocks only |
