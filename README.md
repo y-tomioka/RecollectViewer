@@ -123,6 +123,8 @@ You need official export files from each AI service:
 - **Tree tab** — expand the hierarchy and pick a conversation.
 - **Search tab** — enter keywords, optionally open **Advanced Search Filters**, then press Enter.
 
+Want a quick try first? After extracting the ZIP, load a JSON file from the bundled sample folder (e.g. sample/en/... or sample/ja/...) in Settings.
+
 ---
 
 ## ⚠️ Known limitations
