@@ -77,6 +77,10 @@ Combine any of these conditions:
 | **Date range** | Start / end date |
 | **Exclude keyword** | NOT filter |
 
+### 💡 Second Opinion
+- Export an entire conversation log (context) to a text file with a single click.
+- Seamlessly hand over your lengthy past AI conversations to another generative AI (via file attachment) for verification, brainstorming, or getting a different perspective.
+
 ### 📖 Reading experience
 - Markdown rendering with tables
 - Syntax highlighting for major programming languages
